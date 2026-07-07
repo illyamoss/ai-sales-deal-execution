@@ -15,6 +15,10 @@
 
 ---
 
+![Demo Home](https://github.com/illyamoss/images/blob/master/Screenshot%202026-07-07%20at%2013.50.41.png)
+![Demo Proposals](https://github.com/illyamoss/images/blob/master/Screenshot%202026-07-07%20at%2013.51.12.png)
+![Demo Analystics](https://github.com/illyamoss/images/blob/master/Screenshot%202026-07-07%20at%2013.50.51.png)
+
 ## How It Works
 
 1. **Describe your company** — AI needs to know what you do, your methodology, and your value prop.
